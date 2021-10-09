@@ -12,7 +12,7 @@ TEAM NAME - PROJECT NAME - THEME NAME
 ## ℹ️ Project information
 
 
- 1. You can select any one theme from - 
+1. **Your Theme** ( Education, Entertainment, Fintech, Health ): Select your theme
  
 2. **Project Name:** Give a suitable title to your project
 
@@ -22,7 +22,7 @@ TEAM NAME - PROJECT NAME - THEME NAME
 
 5. **Team Members:** Mention their Names & tag their GitHub handles
 
-6. **Demo Link:** _(if any, this might contain a website/ mobile application link/ short video, etc.)_
+6. **Demo Link:** _Demo Video with (if any, this might contain a website/ mobile application link, etc.)_
 
 7. **Presentation Link:** Provide us the link to for your power point presentation. 
 
@@ -41,6 +41,6 @@ _(Optional)_
 
 **Before you post the issue**:
 - [ ] You have followed the issue title format.
-- [ ] You have mentioned the correct labels.
 - [ ] You have provided all the information correctly.
-- [ ] You have read and agree with the terms in the Code Of Conduct 
+- [ ] You have read and agree with the terms in the [Code Of Conduct](https://github.com/scaleracademy/hackx-submissions/blob/main/coc.md)
+- [ ] Make sure you have filled this [Google Form](https://bit.ly/hackxprojectsubmisson)
